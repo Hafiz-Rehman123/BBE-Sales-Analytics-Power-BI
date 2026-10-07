@@ -157,14 +157,14 @@ Detailed documentation is available in the `Documentation` file:
 
 ### Executive Overview
 
-<img src="01-Executive_Overview.png" width="100%">
+<img src="01-Executive Overview.png" width="100%">
 
 </td>
 <td width="50%">
 
 ### Product & Category
 
-<img src="02-Product_&_Category_Analysis.png" width="100%">
+<img src="02-Product & Category Analysis.png" width="100%">
 
 </td>
 </tr>
@@ -174,14 +174,14 @@ Detailed documentation is available in the `Documentation` file:
 
 ### Customer & Geography
 
-<img src="03_Customer_&_Geography_Analysis.png" width="100%">
+<img src="03-Customer & Geography Analysis.png" width="100%">
 
 </td>
 <td width="50%">
 
 ### Sales & Promotion
 
-<img src="04_Sales_Promotion_Analysis.png" width="100%">
+<img src="04-Sales & Promotion Analysis.png" width="100%">
 
 </td>
 </tr>
